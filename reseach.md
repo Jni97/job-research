@@ -2,5 +2,3 @@
 
 ##  Front-end, Back-end 채용공고(WEB)
 
-- NHN
-  - 자격요건
